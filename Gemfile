@@ -1,4 +1,5 @@
 source ('https://rubygems.org')
+require 'rubygems'
 
 gem('pry')
 gem('sinatra')
